@@ -1,11 +1,11 @@
 # ChainlinkBootcampApr2024
 Smart Contracts from the bootcamp held by Chainlink in April 2024.
 
-[Day 1](./day1/)
+[Day 1](./day1/Activities.md)
 
-[Day 2](./day2/)
+[Day 2](./day2/Activities.md)
 
-[Day 3](./day3/)
+[Day 3](./day3/Activities.md)
 
 [Day 4](./day4/)
 
